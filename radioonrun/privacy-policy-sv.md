@@ -66,4 +66,4 @@ upp revideras.
 ## Kontakt
 
 Klasson Development
-E-post: thomas.klasson@kldev.se
+E-post: support@kldev.se

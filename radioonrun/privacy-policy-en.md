@@ -65,4 +65,4 @@ date at the top will be revised.
 ## Contact
 
 Klasson Development
-Email: thomas.klasson@kldev.se
+Email: support@kldev.se
