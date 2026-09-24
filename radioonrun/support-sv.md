@@ -3,7 +3,7 @@
 Radio On Run spelar de radioströmmar du själv lägger till, på iPhone och Apple Watch —
 byggd för att lyssna medan du springer.
 
-**Kontakt:** supportn@kldev.se
+**Kontakt:** support@kldev.se
 Vi svarar oftast inom några dagar. Ange gärna modell på iPhone och Apple Watch samt
 iOS-/watchOS-version om du rapporterar ett problem.
 
