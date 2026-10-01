@@ -1,14 +1,14 @@
-# Integritetspolicy — Radio On Run
+# Integritetspolicy — RadioRun
 
 **Senast uppdaterad: 23 september 2026**
 
-Radio On Run utvecklas av Klasson Development. Den här policyn beskriver vad appen gör med
+RadioRun utvecklas av Klasson Development. Den här policyn beskriver vad appen gör med
 dina uppgifter. Kortversionen: appen har inga servrar, inga konton och ingen analys, och
 den samlar inte in något om dig.
 
 ## Uppgifter vi samlar in
 
-**Inga.** Radio On Run samlar inte in, överför eller säljer några personuppgifter. Det
+**Inga.** RadioRun samlar inte in, överför eller säljer några personuppgifter. Det
 finns inget användarkonto, ingen inloggning, ingen annonsering och inget ramverk för analys
 eller spårning.
 
@@ -43,7 +43,7 @@ och därmed vilka aktörer du ansluter till.
 
 ## Spårning
 
-Radio On Run spårar dig inte. Appen använder inte ramverket App Tracking Transparency
+RadioRun spårar dig inte. Appen använder inte ramverket App Tracking Transparency
 eftersom det inte finns något att be om tillstånd för, och den delar inga uppgifter med
 datamäklare eller annonsnätverk.
 

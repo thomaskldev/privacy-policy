@@ -1,6 +1,6 @@
-# Radio On Run — Support
+# RadioRun — Support
 
-Radio On Run plays the radio streams you add yourself, on iPhone and Apple Watch — built
+RadioRun plays the radio streams you add yourself, on iPhone and Apple Watch — built
 for listening while you run.
 
 **Contact:** radioonrun@kldev.se
@@ -22,7 +22,7 @@ before saving.
 
 ### The app is empty when I open it
 
-That is intentional — Radio On Run has no built-in station list. Tap the slider icon in the
+That is intentional — RadioRun has no built-in station list. Tap the slider icon in the
 top right, then **Add Channel…** to add your first channel.
 
 ### My channels don't show up on the watch
@@ -36,12 +36,12 @@ the iPhone with you afterwards.
 Apple Watch plays audio only through Bluetooth headphones or speakers, not through its own
 speaker. Connect your headphones in Settings → Bluetooth on the watch and try again.
 
-### How do I put Radio On Run in the Smart Stack?
+### How do I put RadioRun in the Smart Stack?
 
 On the watch face, turn the Digital Crown to open the Smart Stack, scroll down and tap
-**Edit**, then tap **+** and choose **Radio On Run → Quick Play**. Tapping the widget opens
-the app and starts your first channel. You can also add it as a complication on the watch
-face.
+**Edit**, then tap **+** and choose **RadioRun → Quick Play**. Tapping the widget opens
+the app and starts the channel you played last (or your first channel if you haven't
+played one yet). You can also add it as a complication on the watch face.
 
 ### Can I pause without touching the watch?
 

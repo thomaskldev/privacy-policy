@@ -1,14 +1,14 @@
-# Privacy Policy — Radio On Run
+# Privacy Policy — RadioRun
 
 **Last updated: 23 September 2026**
 
-Radio On Run is developed by Klasson Development. This policy explains what the app does
+RadioRun is developed by Klasson Development. This policy explains what the app does
 with your information. The short version: the app has no servers, no accounts and no
 analytics, and it does not collect anything about you.
 
 ## Data we collect
 
-**None.** Radio On Run does not collect, transmit or sell any personal data. There is no
+**None.** RadioRun does not collect, transmit or sell any personal data. There is no
 user account, no sign-in, no advertising and no analytics or tracking framework of any kind.
 
 ## Data stored on your device
@@ -42,7 +42,7 @@ you choose which operators you connect to.
 
 ## Tracking
 
-Radio On Run does not track you. It does not use the App Tracking Transparency framework
+RadioRun does not track you. It does not use the App Tracking Transparency framework
 because there is nothing to ask permission for, and it shares no data with data brokers or
 advertising networks.
 
