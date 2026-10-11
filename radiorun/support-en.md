@@ -3,7 +3,7 @@
 RadioRun plays the radio streams you add yourself, on iPhone and Apple Watch — built
 for listening while you run.
 
-**Contact:** radioonrun@kldev.se
+**Contact:** radiorun@kldev.se
 We usually reply within a few days. Please include your iPhone and Apple Watch models and
 the iOS/watchOS versions if you are reporting a problem.
 
