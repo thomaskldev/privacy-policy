@@ -1,7 +1,7 @@
 # RadioRun — Support
 
 RadioRun spelar de radioströmmar du själv lägger till, på iPhone — med en Apple Watch-app
-byggd för att springa utan telefonen.
+byggd för löprundan.
 
 **Kontakt:** radiorun@kldev.se
 Vi svarar oftast inom några dagar. Ange gärna modell på iPhone och Apple Watch samt
