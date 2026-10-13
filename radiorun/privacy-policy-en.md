@@ -1,6 +1,6 @@
 # Privacy Policy — RadioRun
 
-**Last updated: 23 September 2026**
+**Last updated: 13 October 2026**
 
 RadioRun is developed by Klasson Development. This policy explains what the app does
 with your information. The short version: the app has no servers, no accounts and no

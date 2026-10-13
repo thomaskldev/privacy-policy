@@ -1,6 +1,6 @@
 # Integritetspolicy — RadioRun
 
-**Senast uppdaterad: 23 september 2026**
+**Senast uppdaterad: 13 oktober 2026**
 
 RadioRun utvecklas av Klasson Development. Den här policyn beskriver vad appen gör med
 dina uppgifter. Kortversionen: appen har inga servrar, inga konton och ingen analys, och
