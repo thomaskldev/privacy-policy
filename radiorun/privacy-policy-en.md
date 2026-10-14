@@ -1,6 +1,6 @@
 # Privacy Policy — RadioRun
 
-**Last updated: 13 October 2026**
+**Last updated: 14 October 2026**
 
 RadioRun is developed by Klasson Development. This policy explains what the app does
 with your information. The short version: the app has no servers, no accounts and no
@@ -15,14 +15,14 @@ user account, no sign-in, no advertising and no analytics or tracking framework 
 
 The app stores the following locally on your iPhone and Apple Watch:
 
-- The radio channels you create: name, short name, colour and stream address.
+- The radio channels you create: name, short name, color and stream address.
 - Which channels you have chosen to show, and the order you put them in.
 
 This is kept in the app's own storage area on the device (a shared app group so the watch
 app and its widget can read it). It is included in your device backup if you back up your
 device, and it is deleted when you delete the app.
 
-## Synchronisation between your devices
+## Synchronization between your devices
 
 If you use the Apple Watch app, your channels and selections are sent between your own
 iPhone and your own Apple Watch using Apple's WatchConnectivity framework. This is a direct
