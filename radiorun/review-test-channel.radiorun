@@ -13,6 +13,6 @@
       "streamURL" : "https://stream.radioparadise.com/mp3-128"
     }
   ],
-  "format" : "se.kldev.radioonrun.channels",
+  "format" : "net.radiorun.channels",
   "version" : 1
 }
