@@ -3,7 +3,7 @@
 RadioRun plays the radio streams you add yourself, on iPhone — with an Apple Watch app
 built for running.
 
-**Contact:** radiorun@kldev.se
+**Contact:** support@radiorun.net
 We usually reply within a few days. Please include your iPhone and Apple Watch models and
 the iOS/watchOS versions if you are reporting a problem.
 
