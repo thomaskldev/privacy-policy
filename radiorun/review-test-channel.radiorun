@@ -1,0 +1,18 @@
+{
+  "channels" : [
+    {
+      "colorHex" : "FF6B36",
+      "monogram" : "RC",
+      "name" : "Review Channel",
+      "streamURL" : "https://ice1.somafm.com/groovesalad-128-mp3"
+    },
+    {
+      "colorHex" : "34C759",
+      "monogram" : "RP",
+      "name" : "Now Playing Test",
+      "streamURL" : "https://stream.radioparadise.com/mp3-128"
+    }
+  ],
+  "format" : "se.kldev.radioonrun.channels",
+  "version" : 1
+}
